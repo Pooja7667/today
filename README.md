@@ -4,7 +4,6 @@ This is a frontend Capstone project given by the Almabetter which is Flashcard G
 
 ## Deployment
 
-[Click Here](https://flashcard-generator-naveen.vercel.app/) to see my flashcard generator website.
 
 ## Run Locally
 
@@ -21,10 +20,6 @@ Start the server
 ```
 
 ## Authors
-
-- [@Naveen Singh](https://github.com/iamnaveensingh)
-- [@Vikas Singh](https://github.com/vikassingh8)
-- [@Naresh Kumhar](https://github.com/nareshkumhar619)
 
 
 ## Tech Stack
@@ -51,13 +46,12 @@ This project is created with mainly React js, In this project mainly we have thr
 
 ## How To Use
 
-1) Open the flashcard generator [Click Here](https://flashcard-generator-naveen.vercel.app/).
 
-2) Fill up all the input boxes without any Errors and click on the "Create" button.
+1) Fill up all the input boxes without any Errors and click on the "Create" button.
 
-3) For viewing recently created flashcards click on the "My flashcard" link this will show all flashcards you created recently.
+2) For viewing recently created flashcards click on the "My flashcard" link this will show all flashcards you created recently.
 
-4) For the Viewing Details of the flashcard click on the "view card" button it will redirect you to the flashcard details page where you take a look at your flashcard details.
+3) For the Viewing Details of the flashcard click on the "view card" button it will redirect you to the flashcard details page where you take a look at your flashcard details.
 
 ## Features
 
